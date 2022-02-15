@@ -1,1 +1,2 @@
-# Pirate-game-P3
+# PRO-C25-SA
+boilerplate code for student activituy
